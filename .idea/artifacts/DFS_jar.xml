@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DFS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DFS_jar</output-path>
+    <root id="archive" name="DFS.jar">
+      <element id="module-output" name="DFS" />
+    </root>
+  </artifact>
+</component>

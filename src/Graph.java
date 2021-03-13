@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Graph {
     int size;
-    ArrayList<Edge> edges;
+    static ArrayList<Edge> edges;
 
     public Graph(int size){
         this.size = size;
